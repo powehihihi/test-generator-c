@@ -39,7 +39,8 @@ TestGenerator receives as arguments the names of config files in which, accordin
  - name of the program to test,
  - valid sets of arguments,
  - time limit for a runtime,
- - ct key (stands for clever test), responsible for 1. and 2. testing tasks
+ - ct key (stands for clever test), responsible for 1. and 2. testing tasks.
+ 
 Based on each file, TestGenerator creates a BASH-script test for the program specified in the file.
 
 
